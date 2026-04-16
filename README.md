@@ -15,7 +15,7 @@ lpthread: A parte mais importante. Ele vincula a biblioteca de threads do sistem
 
 Como usar: ./dexdos xabaluba.com (ou IP) PORTA THREADS
 
-EX: ./dexdos xabaluba 443 800
+EX: ./dexdos xabaluba.com 443 800
 
 Caso não queira digitar toda hora ./dexdos e chamar o script de qualquer lugar faça o seguinte:
 
